@@ -4,6 +4,8 @@ En este repositorio está descrito el procedimiento que hay que seguir para desp
 
 ![vista implementación](./arch.jpg)
 
+[Diagrama en Miro](https://miro.com/app/board/uXjVP_0pgGQ=/?share_link_id=642732316187)
+
 # Orden
 
 El siguiente es el orden sugerido para revisar los archivos `*.md` en este repositorio.
