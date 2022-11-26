@@ -8,7 +8,7 @@ En este repositorio está descrito el procedimiento que hay que seguir para desp
 
 El siguiente es el orden sugerido para revisar los archivos `*.md` en este repositorio.
 - **[Dependencias](dependencias.md)**
-- **[Kafka]()**
+- **[Kafka](kafka.md)**
 - **[ElasticSearch](elasticsearch.md)**
 - **[Kibana](kibana.md)**
 - **[Logstash](logstash.md)**
